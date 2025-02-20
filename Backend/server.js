@@ -1,6 +1,6 @@
 const express = require('express');
 const {Web3} = require('web3');
-const cors = require('cors');
+const cors = require('cors'); 
 
 // Replace with your deployed contract address and ABI
 const contractAddress = '0x95100ca6c667f635bDa30850a82b3feb91eBE46f'; // Update after deployment
